@@ -21,10 +21,10 @@ How To
 
 1. Fork [this
    repository](https://github.com/danielbeardsley/danielbeardsley.github.com)
-1. Rename it to `yoursuername.github.com` or create a new branch called
+1. Rename it to `yourusername.github.com` or create a new branch called
    `gh-pages`
-1. Delete content in _posts/
+1. Delete content in `_posts/`
 1. Change all references in `atom.xml` to your own
 1. Change all references in `index.html` to your own
 1. Push to github
-1. Restyle as you wish
+1. Restyle as you wish by editing the css files.
