@@ -20,11 +20,13 @@ be a bit slow on occasion, and it's compression is usually worthless.
 So, the solution is to pipe the results from tar-gzip over an ssh connection.
 NetCat(nc) is a tad faster but requires one more step to setup.
 
-== The Syntax ==
+The Syntax
+----------
 
     ssh user@source.com tar -zc /path/to/dir | tar -zx -C output/dir
 
-== The Results ==
+The Results
+-----------
 For a 250MB txt file
 
 *scp* : 19.7 seconds

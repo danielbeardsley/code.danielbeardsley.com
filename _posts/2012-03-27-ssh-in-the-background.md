@@ -14,7 +14,7 @@ a shell script today and I eventually figured out how to do it.
 The tricky part was that I also wanted the script to do other things (start a
 Selenium server) and kill off the ssh connection when it was done.
 
-== The Code ==
+## The Code ##
 
     remote_port=1234
     local_port=1234
@@ -32,7 +32,7 @@ Selenium server) and kill off the ssh connection when it was done.
     # In my case, start Selenium
     java -jar selenium-server-standalone* 
 
-== How it works ==
+## How it works ##
 
 The SSH command is the trickiest bit, so here it is, more in depth.
 
