@@ -1,6 +1,10 @@
 ---
 layout: post
 title: iFixit's Git Scripts
+tags:
+   - git
+   - open source
+   - ifixit
 ---
 
 {{ page.title }}

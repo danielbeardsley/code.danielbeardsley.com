@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jekyll and Github Pages
+tags: git github
 ---
 
 {{ page.title }}
