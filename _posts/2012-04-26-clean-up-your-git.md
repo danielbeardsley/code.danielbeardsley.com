@@ -29,6 +29,6 @@ Delete branches on your origin
 {% highlight bash %}
 git branch -r --merged origin/master |
    grep -v master |
-   sed "s| origin/||" |
-   xargs -I "BRANCH" git push origin :BRANCH
+   sed "s| origin/|:|" |
+   xargs git push origin
 {% endhighlight %}
