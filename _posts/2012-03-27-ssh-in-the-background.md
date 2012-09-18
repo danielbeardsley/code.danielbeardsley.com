@@ -50,7 +50,7 @@ ssh user@host.com
    -R $remote_port:localhost:$localport
 
    # Redirect stdin and stdout to /dev/null
-   # and put the process in the background (the $)
+   # and put the process in the background (the &)
    >/dev/null /2>&1 &
 {% endhighlight %}
 
