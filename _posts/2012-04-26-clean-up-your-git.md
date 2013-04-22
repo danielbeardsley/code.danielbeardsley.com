@@ -19,17 +19,20 @@ to do something that can be done in a one line bash command?
 Delete local merged branches
 ----------------------------
 {% highlight bash %}
-git branch --merged master |
-   grep -v master |
-   xargs git branch -d
+git branch --merged master |  # list branches merged into master
+   grep -v master |           # exclude master 
+   xargs git branch -d        # tell git to delete them
 {% endhighlight %}
 
 Delete branches on your origin
 ------------------------------
 {% highlight bash %}
-git branch -r --merged origin/master |
-   grep -v master |
-   grep "origin/" |
-   sed "s| origin/|:|" |
-   xargs git push origin
+git remote prune origin                # prune deleted tracking branches
+git branch -r --merged origin/master | # list branches merged into master
+   grep -v master |                    # exclude master
+   sed -n "s| origin/|:|p" |           # use remote branch delete syntax
+                                       # and only include origin branches
+   xargs git push origin               # delete them on the remote
 {% endhighlight %}
+
+
