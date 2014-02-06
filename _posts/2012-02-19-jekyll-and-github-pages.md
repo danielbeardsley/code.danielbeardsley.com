@@ -2,12 +2,8 @@
 layout: post
 title: Jekyll and Github Pages
 tags: git github
+location: San Luis Obispo, CA
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">2012 / 02 / 19 - San Luis Obispo, CA</p>
 
 This blog was a piece of cake to setup, thanks to [Github](http://github.com)
 and Tom's [Jekyll](https://github.com/mojombo/jekyll/).

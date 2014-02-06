@@ -5,12 +5,8 @@ tags:
    -- ssh
    -- terminal
    -- linux
+location: San Luis Obispo, CA
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">2012 / 04 / 08 - San Luis Obispo, CA</p>
 
 I often explain things to people that involve a lot of command-line work and
 usually resort to screen-sharing with Google+ Hangouts or something similar.

@@ -5,12 +5,8 @@ tags:
    -- git
    -- terminal
    -- linux
+location: San Luis Obispo, CA
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">2012 / 04 / 26 - San Luis Obispo, CA</p>
 
 Want to clean up all those merged feature branches in git, but don't feel like
 installing a program like [git-sweep](http://lab.arc90.com/2012/04/03/git-sweep)

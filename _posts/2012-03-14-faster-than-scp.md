@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Faster than scp
+location: San Luis Obispo, CA
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">2012 / 03 / 15 - San Luis Obispo, CA</p>
 
 On occasion everyone needs to move large files between servers, like say a 50GB
 log dump from your DB that you want to analyze, or a 10GB SQL backup.

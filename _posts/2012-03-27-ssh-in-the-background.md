@@ -1,12 +1,8 @@
 ---
 layout: post
 title: SSH in the background
+location: San Luis Obispo, CA
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">2012 / 03 / 27 - San Luis Obispo, CA</p>
 
 I found myself wanting to launch and control a port-forwarding ssh session from
 a shell script today and I eventually figured out how to do it.
