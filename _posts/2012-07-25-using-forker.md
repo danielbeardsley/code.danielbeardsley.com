@@ -7,7 +7,7 @@ summary: A while back we released [Forker](http://github.com/ifixit/Forker),
          a small PHP library that enables easy parallel processing.  We've been
          using it in production for a couple of months now, so I figured it
          would be a good candidate for a first post.
-
+location: San Luis Obispo, CA
 ---
 
 _Cross-posted from

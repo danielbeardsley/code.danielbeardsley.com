@@ -27,6 +27,7 @@ h1 {
 
 p {
   margin: 1em 0;
+  line-height: 170%;
 }
 
 a {
@@ -87,7 +88,6 @@ table {
   font-size: 16px;
   max-width: 40em;
   margin: 1em auto 2em auto;
-  line-height: 170%;
 }
 
 .title {
@@ -178,6 +178,7 @@ table {
     border: 1px solid #ddd;
     background-color: #eef;
     font-size: 13px;
+    line-height:1.3em;
     padding: 0.4em 0.6em;
   }
 
