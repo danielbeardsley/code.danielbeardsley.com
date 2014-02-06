@@ -7,8 +7,9 @@ summary: Edward Snowden has stated that his biggest fear after revealing the lar
          scale domenstic spying operations of the NSA is that nothing would come
          of it. Sadly, it looks like this already happened in the 1970's.
 tags:
-   -- politics
-   -- nsa
+   - politics
+   - nsa
+location: San Luis Obispo, CA
 ---
 
 This [article by Mark Ames] explains the history much more thoroughly, I highly
