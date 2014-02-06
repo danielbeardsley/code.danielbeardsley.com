@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edward Snowdens greatest fear already happened in the 1970's"
+title: "Edward Snowden's greatest fear already happened in the 1970's"
 author: Daniel Beardsley
 author_url: http://github.com/danielbeardsley
 summary: Edward Snowden has stated that his biggest fear after revealing the large
