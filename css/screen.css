@@ -52,25 +52,30 @@ table {
 /*
 /*****************************************************************************/
 
-ul.posts {
+.posts {
   list-style-type: none;
   margin-bottom: 2em;
 }
 
-  ul.posts li {
+  .posts li {
     line-height: 1.75em;
   }
 
-  ul.posts span {
+  .posts .date {
+    min-width:7em;
+    text-align:right;
+    vertical-align:top;
+    padding-right:0.5em;
     color: #aaa;
+    font-size:13px;
   }
 
-  ul.posts .summary {
+  .posts .summary {
      color:#444;
      margin-top:0;
-     margin-left:10em;
      font-size:13px;
      line-height:150%;
+     margin-left:1em;
   }
 
 /*****************************************************************************/
