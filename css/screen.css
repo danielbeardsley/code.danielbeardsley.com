@@ -12,8 +12,9 @@ html, body {
 }
 
 body {
+  color:#444;
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  font: 13.34px Helvetica, Arial, sans-serif;
   *font-size: small;
   text-align: center;
   padding:0 2em;
@@ -21,6 +22,7 @@ body {
 
 h1 {
   margin-bottom: 1em;
+  line-height: 130%;
 }
 
 p {
@@ -31,12 +33,12 @@ a {
   color: #00a;
 }
 
-a:hover {
-  color: black;
+a:visited {
+  color: #66a;
 }
 
-a:visited {
-  color: #a0a;
+a:hover {
+  color: black;
 }
 
 table {
@@ -61,8 +63,14 @@ ul.posts {
 
   ul.posts span {
     color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
+  }
+
+  ul.posts .summary {
+     color:#444;
+     margin-top:0;
+     margin-left:10em;
+     font-size:13px;
+     line-height:150%;
   }
 
 /*****************************************************************************/
@@ -166,7 +174,7 @@ ul.posts {
   #post code {
     border: 1px solid #ddd;
     background-color: #eef;
-    font-size: 80%;
+    font-size: 13px;
     padding: 0.4em 0.6em;
   }
 
