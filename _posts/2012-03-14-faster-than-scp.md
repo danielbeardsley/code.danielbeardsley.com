@@ -2,6 +2,8 @@
 layout: post
 title: Faster than scp
 location: San Luis Obispo, CA
+summary: On occasion everyone needs to move large files between servers,
+         this is the fastest way.
 ---
 
 On occasion everyone needs to move large files between servers, like say a 50GB

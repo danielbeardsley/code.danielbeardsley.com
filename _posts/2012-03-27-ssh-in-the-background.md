@@ -2,6 +2,8 @@
 layout: post
 title: SSH in the background
 location: San Luis Obispo, CA
+summary: Launching and controlling a port-forwarding ssh session from
+         a shell script.
 ---
 
 I found myself wanting to launch and control a port-forwarding ssh session from

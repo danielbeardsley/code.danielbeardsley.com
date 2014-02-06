@@ -6,6 +6,7 @@ tags:
    - open source
    - ifixit
 location: San Luis Obispo, CA
+summary: iFixit has open-sourced our git workflow scripts.
 ---
 
 iFixit has open-sourced our git workflow scripts: [git-scripts][gitscripts].

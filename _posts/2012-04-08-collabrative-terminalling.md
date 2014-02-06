@@ -6,6 +6,7 @@ tags:
    -- terminal
    -- linux
 location: San Luis Obispo, CA
+summary: It's easier than you think.
 ---
 
 I often explain things to people that involve a lot of command-line work and

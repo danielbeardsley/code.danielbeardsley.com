@@ -6,6 +6,8 @@ tags:
    -- terminal
    -- linux
 location: San Luis Obispo, CA
+summary: git prune only goes so far, here's how to delete merged branches
+         locally and remotely.
 ---
 
 Want to clean up all those merged feature branches in git, but don't feel like
@@ -20,7 +22,7 @@ git branch --merged master |  # list branches merged into master
    xargs git branch -d        # tell git to delete them
 {% endhighlight %}
 
-Delete branches on your origin
+Delete merged branches on your remote
 ------------------------------
 {% highlight bash %}
 git remote prune origin                # prune deleted tracking branches
