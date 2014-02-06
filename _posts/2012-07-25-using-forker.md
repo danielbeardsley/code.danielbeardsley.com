@@ -9,8 +9,9 @@ summary: A while back we released [Forker](http://github.com/ifixit/Forker),
          would be a good candidate for a first post.
 
 ---
+
 _Cross-posted from
-[itbrokeand.ifixit.com](itbrokeand.ifixit.com/2012/07/25/using-forker.html)
+[itbrokeand.ifixit.com](http://itbrokeand.ifixit.com/2012/07/25/using-forker.html)
 because I wrote it._
 
 A while back we released [Forker](http://github.com/ifixit/Forker), a small PHP
