@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Clean up your git -- pruning merged branches
 tags:
    -- git
    -- terminal
    -- linux
-location: San Luis Obispo, CA
 summary: git prune only goes so far, here's how to delete merged branches
          locally and remotely.
 ---

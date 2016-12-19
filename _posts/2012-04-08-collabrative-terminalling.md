@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Collabrative Terminal -- Sharing a Screen Session
 tags:
    -- ssh
    -- terminal
    -- linux
-location: San Luis Obispo, CA
 summary: It's easier than you think.
 ---
 

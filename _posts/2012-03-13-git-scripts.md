@@ -1,11 +1,9 @@
 ---
-layout: post
 title: iFixit's Git Scripts
 tags:
    - git
    - open source
    - ifixit
-location: San Luis Obispo, CA
 summary: iFixit has open-sourced our git workflow scripts
 ---
 

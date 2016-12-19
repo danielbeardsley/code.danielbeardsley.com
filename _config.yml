@@ -1,1 +1,11 @@
 pygments: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      location: San Luis Obispo, CA
+      author: Daniel Beardsley
+      author_url: https://github.com/danielbeardsley

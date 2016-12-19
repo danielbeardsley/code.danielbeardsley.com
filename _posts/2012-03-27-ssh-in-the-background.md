@@ -1,7 +1,5 @@
 ---
-layout: post
 title: SSH in the background
-location: San Luis Obispo, CA
 summary: Launching and controlling a port-forwarding ssh session from
          a shell script.
 ---

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Jekyll and Github Pages
 tags: git github
-location: San Luis Obispo, CA
 summary: This blog was a piece of cake to setup, thanks to Github Pages
          and Jekyll.
 ---
