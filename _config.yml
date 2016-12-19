@@ -1,4 +1,4 @@
-pygments: true
+rouge: true
 defaults:
   -
     scope:
